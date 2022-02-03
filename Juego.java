@@ -12,11 +12,6 @@ public class Juego {
 		boolean GeneralaServida=false;
 		Scanner sc=new Scanner(System.in);
 		
-		
-		
-		
-		
-		
 		do {
 			for(int i=0;i<jugadores.length;i++) {
 				int tiros=0;
